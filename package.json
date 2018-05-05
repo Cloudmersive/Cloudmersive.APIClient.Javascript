@@ -1,0 +1,44 @@
+{
+  "name": "cloudmersive",
+  "version": "1.2.3",
+  "description": "Cloudmersive API Client - Validation, Data and Document Conversion, Computer Vision, Natural Language Processing, and many more APIs.",
+  "license": "Unlicense",
+  "main": "src/client.invoker/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --recursive"
+  },
+  "browser": {
+    "fs": false
+  },
+  "dependencies": {
+    "superagent": "3.5.2"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "sinon": "1.17.3",
+    "expect.js": "~0.3.1"
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cloudmersive/Cloudmersive.APIClient.Javascript.git"
+  },
+  "keywords": [
+    "cloudmersive",
+    "API",
+    "client",
+    "computer",
+    "vision",
+    "validation",
+    "PDF",
+    "convert"
+  ],
+  "author": "Cloudmersive",
+  "bugs": {
+    "url": "https://github.com/Cloudmersive/Cloudmersive.APIClient.Javascript/issues"
+  },
+  "homepage": "https://github.com/Cloudmersive/Cloudmersive.APIClient.Javascript#readme"
+}
