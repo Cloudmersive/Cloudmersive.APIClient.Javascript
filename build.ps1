@@ -1,1 +1,1 @@
-& wget https://wzrd.in/standalone/cloudmersive-convert-api-client@latest
+& wget https://wzrd.in/standalone/cloudmersive-convert-api-client@latest -O ./cloudmersive-document-convert.js
