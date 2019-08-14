@@ -1,0 +1,1 @@
+& wget https://wzrd.in/standalone/cloudmersive-convert-api-client@latest
