@@ -5,3 +5,4 @@
 & wget https://wzrd.in/standalone/cloudmersive-nlp-api-client@latest -O ./cloudmersive-nlp-client.js
 & wget https://wzrd.in/standalone/cloudmersive-ocr-api-client@latest -O ./cloudmersive-ocr-client.js
 & wget https://wzrd.in/standalone/cloudmersive-virus-api-client@latest -O ./cloudmersive-virus-client.js
+& wget https://wzrd.in/standalone/cloudmersive-configuration-api-client@latest -O ./cloudmersive-configuration-client.js
